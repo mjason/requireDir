@@ -1,5 +1,5 @@
 {
-  "name": "ng-require-dir",
+  "name": "x-require-dir",
   "version": "0.0.1",
   "description": "node require dir",
   "main": "index.js",
